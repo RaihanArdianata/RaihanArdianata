@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**, and **Blockchain development**.
 
-- 💬 Ask me about **React, Vue, Nodejs or any javascript framework.** and **you can ask a little about **smart contract ethereum**
+- 💬 Ask me about **React, Vue, Nodejs or any javascript framework.** and you can ask a little about **smart contract ethereum**
 
 - 📫 How to reach me **raihan.ardianata@gmail.com**
 
