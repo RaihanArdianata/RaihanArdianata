@@ -20,5 +20,5 @@
 <div style="display: flex;flex-direction:row;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaihanArdianata&show_icons=true&locale=en&layout=compact" alt="RaihanArdianata" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanArdianata&" alt="RaihanArdianata" width="300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanArdianata&" alt="RaihanArdianata" /></p>
 </div>
