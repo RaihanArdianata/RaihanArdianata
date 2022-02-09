@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Ardianata</h1>
 <h3 align="center">Full Stack Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Python**, **Java** and **Blockchain development**.
+- 🌱 I’m currently learning **Python**, **Solidity** and **Blockchain development**.
 
 - 💬 Ask me about **React, Vue, Nodejs or any javascript framework.** 
 
